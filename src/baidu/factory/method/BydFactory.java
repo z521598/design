@@ -5,7 +5,7 @@ package baidu.factory.method;
  */
 public class BydFactory implements CarFactory{
     @Override
-    public Car createCar() {
+    public fmCar createCar() {
         return new Byd();
     }
 }

@@ -5,8 +5,8 @@ package baidu.factory.method;
  */
 public class DemoClient {
     public static void main(String[] args) {
-        Car audi = new AudiFactory().createCar();
-        Car byd = new BydFactory().createCar();
+        fmCar audi = new AudiFactory().createCar();
+        fmCar byd = new BydFactory().createCar();
         audi.run();
         byd.run();
     }

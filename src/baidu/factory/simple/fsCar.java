@@ -1,8 +1,8 @@
-package baidu.factory.method;
+package baidu.factory.simple;
 
 /**
  * Created by langshiquan on 17/2/26.
  */
-public interface Car {
+public interface fsCar {
     void run();
 }

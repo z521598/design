@@ -6,7 +6,7 @@ package baidu.factory.method;
 public class AudiFactory implements CarFactory{
 
     @Override
-    public Car createCar() {
+    public fmCar createCar() {
         return new Audi();
     }
 }
