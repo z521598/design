@@ -17,7 +17,7 @@ public class DemoClient {
 
         aiCar.move();
         System.out.println("-------");
-        AICar aiCar2 = new AICar(flyCar);
+        AICar aiCar2 = new AICar(new FlyCar(new Car()));
 
         aiCar2.move();
     }
