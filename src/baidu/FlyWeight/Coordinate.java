@@ -3,7 +3,7 @@ package baidu.FlyWeight;
 /**
  * Created by langshiquan on 17/3/5.
  */
-// 外部状态
+// 外部状态,不共享的部分
 public class Coordinate {
     private int x,y;
 
