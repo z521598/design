@@ -1,4 +1,4 @@
-package baidu.Mediator;
+package baidu.mediator;
 
 import java.util.HashMap;
 import java.util.Map;
