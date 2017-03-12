@@ -1,4 +1,4 @@
-package baidu.ChainOfRespon;
+package baidu.chainOfRespon;
 
 /**
  * Created by langshiquan on 17/3/5.

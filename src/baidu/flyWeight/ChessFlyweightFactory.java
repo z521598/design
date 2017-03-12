@@ -1,4 +1,4 @@
-package baidu.FlyWeight;
+package baidu.flyWeight;
 
 import java.util.HashMap;
 import java.util.Map;

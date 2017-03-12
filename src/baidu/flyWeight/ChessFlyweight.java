@@ -1,4 +1,4 @@
-package baidu.FlyWeight;
+package baidu.flyWeight;
 
 /**
  * Created by langshiquan on 17/3/5.
